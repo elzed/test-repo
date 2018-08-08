@@ -1,3 +1,3 @@
 # test-repo
 
-## Recognizes user.name when set to "elzed"
+## Recognizes `user.name` when set to "elzed"
